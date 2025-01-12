@@ -11,11 +11,18 @@ Website Point of Sales (POS) adalah sistem berbasis web yang dirancang untuk mem
 
 ## Installation
 
-Jalankan pada directory
+Jalankan pada directory frontend
 
 ```bash
   npm install
   npm start
+```
+
+Jalankan pada directory backend
+
+```bash
+  npm install
+  node server.js
 ```
     
 ## Page Examples
