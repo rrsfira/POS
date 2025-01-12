@@ -3,7 +3,7 @@
 
 
 # DashStack - Website Point os Sales (POS)
-Website Point of Sales (POS) adalah sistem berbasis web yang dirancang untuk mempermudah pengelolaan transaksi penjualan, manajemen stok, dan pelaporan penjualan secara real-time. Sistem ini ditujukan untuk bisnis seperti toko ritel, restoran, atau kafe. Tenologi yang digunakan yaitu ReactJS dan Tailwind CSS untuk antarmuka yang responsif dan modern.
+Website Point of Sales (POS) adalah sistem berbasis web yang dirancang untuk mempermudah pengelolaan transaksi penjualan, manajemen stok, dan pelaporan penjualan secara real-time. Sistem ini ditujukan untuk bisnis seperti toko ritel, restoran, atau kafe. Teknologi yang digunakan yaitu ReactJS dan Tailwind CSS untuk antarmuka yang responsif dan modern.
 
 ## Preview
 
